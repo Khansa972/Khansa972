@@ -5,13 +5,13 @@ Building AI, robotics, and software solutions with hands-on experience in deep l
 
 **🛠 Skills**
 
-**- Programming:** Python, C++, Java, Arduino, Raspberry Pi 5  
-**- Web & UI:** HTML, CSS, JavaScript, React, Figma, Axure RP  
-**- AI & ML:** TensorFlow, OpenCV, CNNs, Pandas, NumPy, Matplotlib  
-**- Robotics:** Maze-solving robots, autonomous navigation, sensors (Ultrasonic, Peltier)  
-**- Software Engineering:** SDLC, SRS, SDS, BRD, UML, OOAD, Requirements Analysis  
-**- Tools & Platforms:** VS Code, PyCharm, Jira, TestRail, Docker, Wazuh  
-**- Soft Skills:** Leadership, Teamwork, Communication, Problem Solving, Time Management
+- **Programming:** Python, C++, Java, Arduino, Raspberry Pi 5  
+- **Web & UI:** HTML, CSS, JavaScript, React, Figma, Axure RP  
+- **AI & ML:** TensorFlow, OpenCV, CNNs, Pandas, NumPy, Matplotlib  
+- **Robotics:** Maze-solving robots, autonomous navigation, sensors (Ultrasonic, Peltier)  
+- **Software Engineering:** SDLC, SRS, SDS, BRD, UML, OOAD, Requirements Analysis  
+- **Tools & Platforms:** VS Code, PyCharm, Jira, TestRail, Docker, Wazuh  
+- **Soft Skills:** Leadership, Teamwork, Communication, Problem Solving, Time Management
 
 
 ## 📂 Projects
@@ -83,8 +83,8 @@ Configured Wazuh with Filebeat agents for real-time login monitoring and securit
 
 **📫 Contact**
 
-**Email:** khansazia627@gmail.com
+- **Email:** khansazia627@gmail.com
 
-**LinkedIn:** [www.linkedin.com/in/khansa-bint-e-zia-791766361]
+- **LinkedIn:** [www.linkedin.com/in/khansa-bint-e-zia-791766361]
 
-**Location:** Islamabad, Pakistan
+- **Location:** Islamabad, Pakistan
