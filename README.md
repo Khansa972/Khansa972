@@ -3,7 +3,7 @@ Software Engineering Student | AI & Robotics Enthusiast | Full-Stack & AI Develo
 Building AI, robotics, and software solutions with hands-on experience in deep learning, full-stack apps, and automation.
 
 
-**🛠 Skills**
+## 🛠 Skills
 
 - **Programming:** Python, C++, Java, Arduino, Raspberry Pi 5  
 - **Web & UI:** HTML, CSS, JavaScript, React, Figma, Axure RP  
@@ -69,19 +69,19 @@ _Wazuh, Filebeat, Security Monitoring_
 Configured Wazuh with Filebeat agents for real-time login monitoring and security alerts; implemented dashboards and notifications.  
 
 
-**🏆 Achievements & Certifications**  
+## 🏆 Achievements & Certifications 
 - AI Essential Course – Google  
 - JP Morgan Software Engineering Job Simulation – Forage  
 - 1st Place: Robot Without Boundaries – NAMAL Tech Expo 2025  
 - 1st Place: Maze Solving Robot Car – CUST Islamabad 2024  
 - Sustainability Innovation Award – STMU 2024  
 
-**🎯 Extracurricular Activities**  
+## 🎯 Extracurricular Activities 
 - **Head of Event Management:** Shifa Robotics Society (2023 – Current)  
 - **Vice President:** Shifa Software Engineering Society (2025 – Current)
 
 
-**📫 Contact**
+## 📫 Contact
 
 - **Email:** khansazia627@gmail.com
 
