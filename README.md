@@ -1,86 +1,84 @@
-Hi, I'm Khansa Bint-e-Zia 👋
-
-Software Engineering Student | AI & Robotics Enthusiast | Software Modeling & Architecture | Full-Stack & AI Developer
-
-Passionate about developing real-world AI, robotics, and software solutions, with hands-on experience in deep learning, full-stack development, automation, and technical documentation.
+Hi, I'm Khansa Bint-e-Zia 👋  
+Software Engineering Student | AI & Robotics Enthusiast | Full-Stack & AI Developer  
+Building AI, robotics, and software solutions with hands-on experience in deep learning, full-stack apps, and automation.
 
 
 **🛠 Skills**
 
-**Programming & Development:** Python, C++, Java, Arduino, Raspberry Pi 5
-
-**Web & UI:** HTML, CSS, JavaScript, React, Figma, Axure RP
-
-**AI & Machine Learning:** TensorFlow, OpenCV, CNNs, Pandas, NumPy, Matplotlib, AI Modeling & Automation
-
-**Robotics & Embedded Systems:** Maze-solving robots, autonomous navigation, sensor integration (Ultrasonic, Peltier), multi-purpose robotic systems
-
-**Software Engineering:** SDLC, SRS, SDS, BRD, UML, OOAD, Requirements Analysis & Design
-
-**Tools & Platforms:** VS Code, PyCharm, Dev C++, Jira, TestRail, Testomat, Katalon Studio, Xebrio, Wazuh, Docker
-
-**Soft Skills:** Leadership, Teamwork, Communication, Problem Solving, Time Management, Event Planning & Coordination
+**- Programming:** Python, C++, Java, Arduino, Raspberry Pi 5  
+**- Web & UI:** HTML, CSS, JavaScript, React, Figma, Axure RP  
+**- AI & ML:** TensorFlow, OpenCV, CNNs, Pandas, NumPy, Matplotlib  
+**- Robotics:** Maze-solving robots, autonomous navigation, sensors (Ultrasonic, Peltier)  
+**- Software Engineering:** SDLC, SRS, SDS, BRD, UML, OOAD, Requirements Analysis  
+**- Tools & Platforms:** VS Code, PyCharm, Jira, TestRail, Docker, Wazuh  
+**- Soft Skills:** Leadership, Teamwork, Communication, Problem Solving, Time Management
 
 
-**📂 Projects**
+## 📂 Projects
 
-**1. DeepFake Images Detector**
-CNN-based image classifier developed from scratch to detect real vs fake images. Includes preprocessing, model optimization, and an interactive GUI for real-time predictions.
+**1. DeepFake Images Detector**  
+_CNN, Python, TensorFlow, GUI_  
+Detects real vs fake images with an interactive GUI; developed entirely from scratch. Includes preprocessing, model optimization, and real-time predictions.  
 
-**2. Handwritten Digits Recognition**
-Trained a CNN to recognize handwritten digits; supports user input and image uploads.
+**2. Handwritten Digits Recognition**  
+_CNN, Python, TensorFlow_  
+Trains a CNN to recognize handwritten digits; supports user input and image uploads.  
 
-**3. PathFinder**
-Full-stack web application for visualizing project folders and fast file search with React and PHP.
+**3. PathFinder**  
+_Full-Stack, React, PHP_  
+Visualizes project folders and allows fast file search; interactive tree view for navigating directories.  
 
-**4. Sudoku Solver Game**
-Java-based modular Sudoku game with recursive backtracking, input validation, hints, and multiple difficulty levels.
+**4. Sudoku Solver Game**  
+_Java, OOP, Recursive Backtracking_  
+Java-based modular Sudoku game with recursive backtracking, input validation, hints, and multiple difficulty levels.  
 
-**5. Medical AI-Powered Chatbot**
-Tkinter and Bootstrap chatbot integrated with OpenAI API for intelligent responses; applied OOAD principles.
+**5. Medical AI-Powered Chatbot**  
+_Python, Tkinter, OpenAI API, Bootstrap_  
+Health-focused chatbot integrated with OpenAI API for intelligent responses; designed using OOAD principles.  
 
-**6. Real-Time Face Recognition System**
-Live face recognition on Raspberry Pi 5 using Python & OpenCV, trained on a custom dataset.
+**6. Real-Time Face Recognition System**  
+_Python, OpenCV, Raspberry Pi 5_  
+Live face recognition using Raspberry Pi 5; detects faces from camera feed and identifies them using a trained dataset.  
 
-**7. Maze Solving Robot Car**
-Arduino-powered autonomous robot using ultrasonic sensors for maze navigation.
+**7. Maze Solving Robot Car**  
+_Arduino, Sensors, Robotics_  
+Autonomous robot car using ultrasonic sensors for real-time maze navigation and obstacle detection.  
 
-**8. Robot Without Boundaries**
-Adaptive multi-purpose robotic system demonstrating intelligent control and mobility.
+**8. Robot Without Boundaries**  
+_Robotics, Embedded Systems, Adaptive Control_  
+Multi-purpose robotic system demonstrating intelligent control, adaptive mobility, and task versatility.  
 
-**9. Water Extractor from Air**
-Hardware prototype using Peltier modules and heat sinks to condense atmospheric humidity into clean water.
+**9. Water Extractor from Air**  
+_Hardware, Peltier Modules, Sustainable Design_  
+Prototype to condense atmospheric humidity into clean water; low-cost and environmentally sustainable.  
 
-**10. Virtual Counselling System**
-Developed SRS and SDS documentation, system modeling, and manual testing for an academic, mental health, and parental counselling system.
+**10. Virtual Counselling System**  
+_Software Engineering, SRS, SDS, Manual Testing_  
+Developed system documentation, modeling, and testing for academic, mental health, and parental counselling.  
 
-**11. Intelligent STMU Timetable Management System**
-Conducted stakeholder interviews, requirement analysis, and testing to optimize university scheduling logic.
+**11. Intelligent STMU Timetable Management System**  
+_Requirement Analysis, SDLC, Manual Testing_  
+Optimized university scheduling through stakeholder interviews, requirement analysis, and manual testing.  
 
-**12. Speech Practice Arena**
-Redesigned Yoodli platform using Figma prototypes; conducted usability testing, cognitive walkthroughs, and heuristic evaluation.
+**12. Speech Practice Arena**  
+_Figma, Usability Testing, Prototyping_  
+Redesigned Yoodli platform; performed heuristic evaluation, cognitive walkthrough, and thinking-aloud usability testing.  
 
-**13. Wazuh Filebeat Integration**
-Configured Wazuh for real-time security monitoring with Filebeat and multiple agents.
+**13. Wazuh Filebeat Integration**  
+_Wazuh, Filebeat, Security Monitoring_  
+Configured Wazuh with Filebeat agents for real-time login monitoring and security alerts; implemented dashboards and notifications.  
 
-**🏆 Achievements & Certifications**
 
-- AI Essential Course – Google
-- JP Morgan Software Engineering Job Simulation – Forage
-- 1st Place in Robot Without Boundaries – NAMAL Tech Expo 2025
-- 1st Place in Maze Solving Robot Car Competition – CUST Islamabad 2024
-- Sustainability Innovation Award – Shifa Tameer-e-Millat University 2024
-- Certificate of Appreciation – Alkhidmat Foundation & Robotics Workshops
+**🏆 Achievements & Certifications**  
+- AI Essential Course – Google  
+- JP Morgan Software Engineering Job Simulation – Forage  
+- 1st Place: Robot Without Boundaries – NAMAL Tech Expo 2025  
+- 1st Place: Maze Solving Robot Car – CUST Islamabad 2024  
+- Sustainability Innovation Award – STMU 2024  
 
-**🎯 Extracurricular Activities**
-
-**- Head of Event Management – Shifa Robotics Society (2023 – Current)**
-
-Planned and managed workshops and competitions; coordinated tasks for smooth execution.
-
-**- Vice President – Shifa Software Engineering Society (2025 – Current)**
-
-Contributed to society foundation, event planning, and student engagement initiatives.
+**🎯 Extracurricular Activities**  
+- **Head of Event Management:** Shifa Robotics Society (2023 – Current)  
+- **Vice President:** Shifa Software Engineering Society (2025 – Current)
 
 
 **📫 Contact**
