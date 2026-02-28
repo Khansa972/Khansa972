@@ -1,18 +1,28 @@
 Hi, I'm Khansa Bint-e-Zia 👋
+
 Software Engineering Student | AI & Robotics Enthusiast | Software Modeling & Architecture | Full-Stack & AI Developer
 
 Passionate about developing real-world AI, robotics, and software solutions, with hands-on experience in deep learning, full-stack development, automation, and technical documentation.
 
 **🛠 Skills**
+
 **Programming & Development:** Python, C++, Java, Arduino, Raspberry Pi 5
+
 **Web & UI:** HTML, CSS, JavaScript, React, Figma, Axure RP
+
 **AI & Machine Learning:** TensorFlow, OpenCV, CNNs, Pandas, NumPy, Matplotlib, AI Modeling & Automation
+
 **Robotics & Embedded Systems:** Maze-solving robots, autonomous navigation, sensor integration (Ultrasonic, Peltier), multi-purpose robotic systems
+
 **Software Engineering:** SDLC, SRS, SDS, BRD, UML, OOAD, Requirements Analysis & Design
+
 **Tools & Platforms:** VS Code, PyCharm, Dev C++, Jira, TestRail, Testomat, Katalon Studio, Xebrio, Wazuh, Docker
+
 **Soft Skills:** Leadership, Teamwork, Communication, Problem Solving, Time Management, Event Planning & Coordination
 
+
 **📂 Projects**
+
 **1. DeepFake Images Detector**
 CNN-based image classifier developed from scratch to detect real vs fake images. Includes preprocessing, model optimization, and an interactive GUI for real-time predictions.
 
@@ -63,13 +73,18 @@ Configured Wazuh for real-time security monitoring with Filebeat and multiple ag
 
 **🎯 Extracurricular Activities**
 **- Head of Event Management – Shifa Robotics Society (2023 – Current)**
+
 Planned and managed workshops and competitions; coordinated tasks for smooth execution.
 
 **- Vice President – Shifa Software Engineering Society (2025 – Current)**
+
 Contributed to society foundation, event planning, and student engagement initiatives.
+
 
 **📫 Contact**
 
 **Email:** khansazia627@gmail.com
+
 **LinkedIn:** [www.linkedin.com/in/khansa-bint-e-zia-791766361]
+
 **Location:** Islamabad, Pakistan
