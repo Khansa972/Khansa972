@@ -85,6 +85,6 @@ Configured Wazuh with Filebeat agents for real-time login monitoring and securit
 
 - **Email:** khansazia627@gmail.com
 
-- **LinkedIn:** [www.linkedin.com/in/khansa-bint-e-zia-791766361]
+- **LinkedIn:** www.linkedin.com/in/khansa-bint-e-zia-791766361
 
 - **Location:** Islamabad, Pakistan
