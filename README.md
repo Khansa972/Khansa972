@@ -4,6 +4,7 @@ Software Engineering Student | AI & Robotics Enthusiast | Software Modeling & Ar
 
 Passionate about developing real-world AI, robotics, and software solutions, with hands-on experience in deep learning, full-stack development, automation, and technical documentation.
 
+
 **🛠 Skills**
 
 **Programming & Development:** Python, C++, Java, Arduino, Raspberry Pi 5
@@ -72,6 +73,7 @@ Configured Wazuh for real-time security monitoring with Filebeat and multiple ag
 - Certificate of Appreciation – Alkhidmat Foundation & Robotics Workshops
 
 **🎯 Extracurricular Activities**
+
 **- Head of Event Management – Shifa Robotics Society (2023 – Current)**
 
 Planned and managed workshops and competitions; coordinated tasks for smooth execution.
