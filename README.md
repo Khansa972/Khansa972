@@ -1,21 +1,11 @@
 <div align="center">
 
-<!-- ══════════════════════════════ HEADER ══════════════════════════════ -->
+<!-- ══════════════ HEADER ══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=56&pause=999999&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=120&lines=Khansa+Bint-e-Zia" alt="Name Banner"/>
 
-<!-- Top teal accent bar -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=5&pause=999999&color=0EA5E9&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=5&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="accent-top"/>
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=400&size=18&pause=999999&color=C4B5FD&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=50&lines=Software+Engineering+Student+%7C+AI+%26+Robotics+%7C+Software+Modelling+%26+Construction" alt="Subtitle Banner"/>
 
-<!-- Name row: dark bg, large serif bold white -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=56&pause=999999&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=110&lines=Khansa+Bint-e-Zia" alt="Name"/>
-
-<!-- Subtitle row: matching dark bg, purple text -->
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=400&size=18&pause=999999&color=C4B5FD&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=42&lines=💻+Software+Engineering+Student+%7C+🤖+AI+%26+Robotics+%7C+📐+Software+Modelling+%26+Construction" alt="Subtitle"/>
-
-<!-- Bottom purple accent bar -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=5&pause=999999&color=7C3AED&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=5&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="accent-bottom"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Software+Engineering+Student+%F0%9F%92%BB;Robotics+%26+Embedded+Systems+Builder+%F0%9F%A4%96;1st+Place+%7C+Robot+Without+Boundaries+%F0%9F%8F%86+NAMAL+2025" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=AI+%26+Machine+Learning+Engineer;Software+Engineering+Student;Robotics+%26+Embedded+Systems+Builder;1st+Place+%7C+Robot+Without+Boundaries+%7C+NAMAL+2025" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khansa%20Bint--e--Zia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khansa-bint-e-zia-791766361)
 [![Email](https://img.shields.io/badge/Email-khansazia627%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khansazia627@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Islamabad-Pakistan-7c3aed?style=for-the-badge&logoColor=white)](https://maps.google.com/?q=Islamabad,Pakistan)
+[![Location](https://img.shields.io/badge/Location-Islamabad%2C+Pakistan-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Islamabad,Pakistan)
 
 </div>
 
@@ -186,28 +176,18 @@
 
 ---
 
-<!-- ══════════════════════════════ FOOTER ══════════════════════════════ -->
+<!-- ══════════════ FOOTER ══════════════ -->
 <div align="center">
 
-<!-- Top purple accent bar -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=5&pause=999999&color=7C3AED&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=5&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="accent-top"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=999999&color=7C3AED&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=40&lines=Open+to+Collaborations+%7C+Research+%7C+Internships+%7C+Let%27s+Build+Something+Amazing!" alt="open-to"/>
 
-<!-- Row 1: Open to opportunities -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=999999&color=7C3AED&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=36&lines=✦+Open+to+Collaborations+·+Research+·+Internships+·+Let%27s+Build+Something+Amazing+✦" alt="open-to"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=22&pause=999999&color=C4B5FD&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=65&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22" alt="Quote"/>
 
-<!-- Row 2: Quote in elegant italic serif -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=21&pause=999999&color=C4B5FD&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=58&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22" alt="quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=999999&color=818CF8&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=38&lines=~+Khansa+Bint-e-Zia+%7C+Islamabad%2C+Pakistan+%7C+khansazia627%40gmail.com" alt="Attribution"/>
 
-<!-- Row 3: Thin separator line with name -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&pause=999999&color=4C5568&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=28&lines=──────────────────────+%7E+Khansa+Bint-e-Zia+·+Islamabad%2C+Pakistan+──────────────────────" alt="name-line"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&pause=999999&color=4B5563&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=32&lines=AI+%26+ML+--+Software+Engineering+--+Robotics+--+Documentation+--+App+Dev+--+Security" alt="Skills Footer"/>
 
-<!-- Row 4: Skills summary -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=999999&color=4A5568&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=28&lines=🧠+AI+%26+ML+%C2%B7+💻+Software+Engineering+%C2%B7+🤖+Robotics+%C2%B7+📐+Documentation+%C2%B7+📱+App+Dev+%C2%B7+🔐+Security" alt="skills-footer"/>
-
-<!-- Row 5: Email contact -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&pause=999999&color=6366F1&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=30&lines=📧+khansazia627%40gmail.com+%C2%B7+🔗+linkedin.com%2Fin%2Fkhansa-bint-e-zia-791766361" alt="contact-footer"/>
-
-<!-- Bottom teal accent bar -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=5&pause=999999&color=0EA5E9&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=5&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="accent-bottom"/>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khansa-bint-e-zia-791766361)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khansazia627@gmail.com)
 
 </div>
