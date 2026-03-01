@@ -1,15 +1,12 @@
 <div align="center">
 
-<h1>🤖 Khansa Bint-e-Zia</h1>
+<!-- BANNER: using readme-typing-svg banner trick for a styled title block -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=40&pause=99999&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=900&height=100&lines=Khansa+Bint-e-Zia" alt="Name Banner"/>
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-%E2%80%A2-a78bfa?style=flat-square&labelColor=0d1117&color=a78bfa"/>
-  <img src="https://img.shields.io/badge/Software%20Engineering-%E2%80%A2-a78bfa?style=flat-square&labelColor=0d1117&color=7c3aed"/>
-  <img src="https://img.shields.io/badge/Robotics-%E2%80%A2-a78bfa?style=flat-square&labelColor=0d1117&color=6d28d9"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=C4B5FD&background=0D1117&center=true&vCenter=true&width=900&height=40&lines=AI+%26+ML+%E2%80%A2+Software+Engineering+%E2%80%A2+Robotics+%E2%80%A2+Islamabad%2C+Pakistan" alt="Subtitle Banner"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=60&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Software+Engineering+Student+%F0%9F%92%BB;Robotics+%26+Embedded+Systems+Builder+%F0%9F%A4%96;1st+Place+%7C+Robot+Without+Boundaries+%F0%9F%8F%86+NAMAL+2025" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Software+Engineering+Student+%F0%9F%92%BB;Robotics+%26+Embedded+Systems+Builder+%F0%9F%A4%96;1st+Place+%7C+Robot+Without+Boundaries+%F0%9F%8F%86+NAMAL+2025" alt="Typing SVG" />
 
 <br/>
 
@@ -130,7 +127,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khansa972&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="Khansa's GitHub Stats"/>
-&nbsp;
+&nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khansa972&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/><br/>
@@ -174,7 +171,5 @@
 <br/>
 
 *"The best way to predict the future is to build it."*
-
-![footer](https://img.shields.io/badge/───────────────────────────────────────────────────────────────────────────────────────────────────-0d1117?style=for-the-badge)
 
 </div>
