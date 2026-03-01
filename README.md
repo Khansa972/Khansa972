@@ -30,7 +30,6 @@
 - 🔬 Currently building AI-powered solutions and award-winning autonomous robots
 - 🌱 Exploring **Deep Learning, Autonomous Systems**, and **Security Monitoring**
 - 📐 Skilled in **Software Documentation** — SRS, SDS, BRD, UML, OOAD & Requirements Analysis
-- 💬 Ask me about **CNNs, Raspberry Pi projects, or anything AI/ML!**
 
 ---
 
