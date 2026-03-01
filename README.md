@@ -151,9 +151,9 @@
 
 <div align="center">
 
-| 🧠 AI / ML | 📐 Documentation | 📱 App Development | 
+| 🧠 AI | 📐 Documentation | 📱 App Development | 
 |:---:|:---:|:---:|
-| CNNs , Deep Learning , Machine Learning | SRS , SDS , BRD , UML , OOAD | Android , Java , Firebase | 
+| CNNs , Deep Learning , Machine Learning | SRS , SDS , BRD , UML | Android , Java , Firebase | 
 
 <br/>
 
