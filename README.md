@@ -153,7 +153,7 @@
 
 | 🧠 AI / ML | 📐 Documentation | 📱 App Development | 
 |:---:|:---:|:---:|
-| CNNs , Deep Learning , Machine Learning | SRS , SDS , BRD , UML , OOAD | Android , Java , React , Firebase | 
+| CNNs , Deep Learning , Machine Learning | SRS , SDS , BRD , UML , OOAD | Android , Java , Firebase | 
 
 <br/>
 
