@@ -1,21 +1,16 @@
 <div align="center">
 
-<!-- ══════════════ HEADER ══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=56&pause=999999&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=120&lines=Khansa+Bint-e-Zia" alt="Name Banner"/>
+<h1>Khansa Bint-e-Zia</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=400&size=18&pause=999999&color=C4B5FD&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=50&lines=Software+Engineering+Student+%7C+AI+%26+Robotics+%7C+Software+Modelling+%26+Construction" alt="Subtitle Banner"/>
+<p><em>Software Engineering Student &nbsp;|&nbsp; AI & Robotics &nbsp;|&nbsp; Software Modelling & Construction</em></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=AI+%26+Machine+Learning+Engineer;Software+Engineering+Student;Robotics+%26+Embedded+Systems+Builder;1st+Place+%7C+Robot+Without+Boundaries+%7C+NAMAL+2025" alt="Typing SVG" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Khansa972&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&height=45&lines=AI+%26+Machine+Learning+Engineer;Software+Engineering+Student;Robotics+%26+Embedded+Systems+Builder;1st+Place+%7C+Robot+Without+Boundaries+%7C+NAMAL+2025" alt="Typing SVG"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khansa%20Bint--e--Zia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khansa-bint-e-zia-791766361)
 [![Email](https://img.shields.io/badge/Email-khansazia627%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khansazia627@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Islamabad%2C+Pakistan-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Islamabad,Pakistan)
+[![Location](https://img.shields.io/badge/Islamabad-Pakistan-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Islamabad,Pakistan)
 
 </div>
 
@@ -179,15 +174,27 @@
 <!-- ══════════════ FOOTER ══════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=999999&color=7C3AED&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=40&lines=Open+to+Collaborations+%7C+Research+%7C+Internships+%7C+Let%27s+Build+Something+Amazing!" alt="open-to"/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=22&pause=999999&color=C4B5FD&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=65&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22" alt="Quote"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=999999&color=818CF8&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=38&lines=~+Khansa+Bint-e-Zia+%7C+Islamabad%2C+Pakistan+%7C+khansazia627%40gmail.com" alt="Attribution"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&pause=999999&color=4B5563&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=32&lines=AI+%26+ML+--+Software+Engineering+--+Robotics+--+Documentation+--+App+Dev+--+Security" alt="Skills Footer"/>
+### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khansa-bint-e-zia-791766361)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khansazia627@gmail.com)
+
+<br/>
+
+---
+
+### 💼 Open to Collaborations &nbsp;·&nbsp; Research &nbsp;·&nbsp; Internships
+
+<br/>
+
+*"The best way to predict the future is to build it."*
+
+<br/>
+
+**Khansa Bint-e-Zia** &nbsp;·&nbsp; Islamabad, Pakistan &nbsp;·&nbsp; khansazia627@gmail.com
+
+<br/>
 
 </div>
