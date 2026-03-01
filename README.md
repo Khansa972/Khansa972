@@ -1,56 +1,22 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 900 200">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#1a1040"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#a78bfa;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <!-- Background -->
-  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
-  <!-- Decorative circles -->
-  <circle cx="60" cy="40" r="50" fill="#a78bfa" opacity="0.07"/>
-  <circle cx="840" cy="160" r="70" fill="#7c3aed" opacity="0.08"/>
-  <circle cx="450" cy="10" r="40" fill="#c4b5fd" opacity="0.05"/>
-  <!-- Accent line top -->
-  <rect x="0" y="0" width="900" height="3" fill="url(#line)" rx="2"/>
-  <!-- Accent line bottom -->
-  <rect x="0" y="197" width="900" height="3" fill="url(#line)" rx="2"/>
-  <!-- Dot decorations -->
-  <circle cx="200" cy="170" r="2" fill="#a78bfa" opacity="0.5"/>
-  <circle cx="220" cy="160" r="1.5" fill="#c4b5fd" opacity="0.4"/>
-  <circle cx="700" cy="35" r="2" fill="#a78bfa" opacity="0.5"/>
-  <circle cx="720" cy="50" r="1.5" fill="#c4b5fd" opacity="0.4"/>
-  <!-- Name -->
-  <text x="450" y="95" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="2">Khansa Bint-e-Zia</text>
-  <!-- Divider -->
-  <rect x="300" y="108" width="300" height="1.5" fill="url(#line)" rx="1"/>
-  <!-- Subtitle -->
-  <text x="450" y="140" font-family="Courier New, monospace" font-size="15" fill="#c4b5fd" text-anchor="middle" letter-spacing="3">AI &amp; ML  ·  Software Engineering  ·  Robotics</text>
-  <!-- Tag line -->
-  <text x="450" y="168" font-family="Georgia, serif" font-size="12" fill="#9ca3af" text-anchor="middle" font-style="italic">Building intelligent systems — one model, one circuit, one line at a time</text>
-</svg>
+<!-- HEADER BANNER — GitHub-safe, renders via img tag -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Khansa%20Bint-e-Zia&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20ML%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Robotics&descSize=18&descColor=c4b5fd&descAlignY=60" width="100%" alt="Header"/>
+
+<!-- Typing Animation — hosted service, always works as img -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=60&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Software+Engineering+Student+%F0%9F%92%BB;Robotics+%26+Embedded+Systems+Builder+%F0%9F%A4%96;1st+Place+%7C+Robot+Without+Boundaries+%F0%9F%8F%86+NAMAL+2025" alt="Typing SVG" />
 
 <br/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Software+Engineering+Student+%F0%9F%92%BB;Robotics+%26+Embedded+Systems+Builder+%F0%9F%A4%96;1st+Place+Robot+Without+Boundaries+%F0%9F%8F%86+NAMAL+2025" alt="Typing SVG" />
-</a>
+<!-- Profile view counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Khansa972&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br/><br/>
+<br/>
 
-<!-- Badges -->
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khansa%20Bint--e--Zia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khansa-bint-e-zia-791766361)
 [![Email](https://img.shields.io/badge/Email-khansazia627%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khansazia627@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Islamabad%2C%20Pakistan-302b63?style=for-the-badge)](https://maps.google.com/?q=Islamabad,Pakistan)
+[![Location](https://img.shields.io/badge/📍_Islamabad-Pakistan-7c3aed?style=for-the-badge&logoColor=white)](https://maps.google.com/?q=Islamabad,Pakistan)
 
 </div>
 
@@ -65,6 +31,7 @@
 - 🔬 Currently building AI-powered solutions and award-winning autonomous robots
 - 🌱 Exploring **Deep Learning, Autonomous Systems**, and **Security Monitoring**
 - 📐 Skilled in **Software Documentation** — SRS, SDS, BRD, UML, OOAD & Requirements Analysis
+- 💬 Ask me about **CNNs, Raspberry Pi projects, or anything AI/ML!**
 
 ---
 
@@ -182,24 +149,6 @@
 
 *"The best way to predict the future is to build it."*
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="80" viewBox="0 0 900 80">
-  <defs>
-    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a1040"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#0f0c29"/>
-    </linearGradient>
-    <linearGradient id="footer-line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#a78bfa;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="80" fill="url(#footer-bg)" rx="12"/>
-  <rect x="0" y="0" width="900" height="2" fill="url(#footer-line)"/>
-  <circle cx="100" cy="40" r="30" fill="#a78bfa" opacity="0.06"/>
-  <circle cx="800" cy="40" r="40" fill="#7c3aed" opacity="0.06"/>
-  <text x="450" y="48" font-family="Georgia, serif" font-size="13" fill="#9ca3af" text-anchor="middle" font-style="italic">✦ Let's build the future together ✦</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
