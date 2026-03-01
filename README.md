@@ -22,8 +22,6 @@
 
 - 🎓 **Software Engineering Undergraduate** at Shifa Tameer-e-Millat University, Islamabad — **CGPA 3.91**
 - 🤖 Passionate about **Artificial Intelligence, Robotics, Embedded Systems**, and **Requirements Engineering**
-- 🔬 Currently building AI-powered solutions and award-winning autonomous robots
-- 🌱 Exploring **Deep Learning, Autonomous Systems**, and **Security Monitoring**
 - 📐 Skilled in **Software Documentation** — SRS, SDS, BRD, UML, OOAD & Requirements Analysis
 
 ---
@@ -50,17 +48,17 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔩 Embedded & Robotics
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Ultrasonic Sensors](https://img.shields.io/badge/Ultrasonic-Sensors-111111?style=for-the-badge&logoColor=white)
-
 ### 🧪 Testing & QA
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
 ![Katalon](https://img.shields.io/badge/Katalon-339933?style=for-the-badge&logoColor=white)
 ![Testomat](https://img.shields.io/badge/Testomat-7C3AED?style=for-the-badge&logoColor=white)
+
+### 🔩 Embedded & Robotics
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Ultrasonic Sensors](https://img.shields.io/badge/Ultrasonic-Sensors-111111?style=for-the-badge&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
