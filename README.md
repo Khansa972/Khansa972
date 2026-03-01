@@ -154,10 +154,7 @@
 
 | 🧠 AI / ML | 📐 Documentation | 📱 App / Web Development | 🤖 Robotics |
 |:---:|:---:|:---:|:---:|
-| CNNs 
-· Deep Learning 
-· OpenCV 
-· TensorFlow | SRS · SDS · BRD · UML · OOAD | Android · Java · React · Firebase | Arduino · Raspberry Pi · Embedded |
+| CNNs , Deep Learning , OpenCV , TensorFlow | SRS , SDS , BRD , UML , OOAD | Android , Java , React , Firebase | Arduino , Raspberry Pi , Embedded |
 <br/>
 
 > *Feel free to reach out if you have questions, want to collaborate, or just want to talk tech!*
