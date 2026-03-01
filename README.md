@@ -164,19 +164,15 @@
 > 
 </div>
 
----
+
 
 <!-- ══════════════ FOOTER ══════════════ -->
 <div align="center">
----
+
 
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khansa-bint-e-zia-791766361)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khansazia627@gmail.com)
-
-
-*"The best way to predict the future is to build it."*
-
 
 </div>
