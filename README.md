@@ -1,9 +1,10 @@
 <div align="center">
 
-<!-- BANNER: using readme-typing-svg banner trick for a styled title block -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=40&pause=99999&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=900&height=100&lines=Khansa+Bint-e-Zia" alt="Name Banner"/>
+<!-- ROW 1: Name banner — teal background, large bold serif name -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=52&pause=999999&color=FFFFFF&background=3D6872&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=110&lines=Khansa+Bint-e-Zia" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=C4B5FD&background=0D1117&center=true&vCenter=true&width=900&height=40&lines=AI+%26+ML+%E2%80%A2+Software+Engineering+%E2%80%A2+Robotics+%E2%80%A2+Islamabad%2C+Pakistan" alt="Subtitle Banner"/>
+<!-- ROW 2: Subtitle — slightly lighter teal, wave effect via color -->
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=400&size=19&pause=999999&color=DCF0F3&background=4A7A85&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=50&lines=Software+Engineering+Student+%7C+AI+%26+Robotics+%7C+Software+Modelling+%26+Construction" alt="Subtitle" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Software+Engineering+Student+%F0%9F%92%BB;Robotics+%26+Embedded+Systems+Builder+%F0%9F%A4%96;1st+Place+%7C+Robot+Without+Boundaries+%F0%9F%8F%86+NAMAL+2025" alt="Typing SVG" />
@@ -61,6 +62,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
