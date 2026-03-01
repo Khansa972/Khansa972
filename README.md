@@ -148,8 +148,8 @@
 
 | 👤 Role | 🏛️ Organization | 📅 Period |
 |:---:|:---:|:---:|
-| 🎪 **Head of Event Management** | Shifa Robotics Society | 2023 – Present |
-| 🏛️ **Vice President** | Shifa Software Engineering Society | 2025 – Present |
+| **Head of Event Management** | Shifa Robotics Society | 2023 – Present |
+| **Vice President** | Shifa Software Engineering Society | 2025 – Present |
 
 </div>
 
