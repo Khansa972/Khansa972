@@ -161,19 +161,13 @@
 <br/>
 
 > *Feel free to reach out if you have questions, want to collaborate, or just want to talk tech!*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khansa-bint-e-zia-791766361)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khansazia627@gmail.com)
-
+> 
 </div>
 
 ---
 
 <!-- ══════════════ FOOTER ══════════════ -->
 <div align="center">
-
 ---
 
 ### 🤝 Let's Connect
@@ -181,20 +175,8 @@
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khansa-bint-e-zia-791766361)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khansazia627@gmail.com)
 
-<br/>
-
----
-
-### 💼 Open to Collaborations &nbsp;·&nbsp; Research &nbsp;·&nbsp; Internships
-
-<br/>
 
 *"The best way to predict the future is to build it."*
 
-<br/>
-
-**Khansa Bint-e-Zia** &nbsp;·&nbsp; Islamabad, Pakistan &nbsp;·&nbsp; khansazia627@gmail.com
-
-<br/>
 
 </div>
