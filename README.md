@@ -23,13 +23,15 @@
 
 > *"Building tomorrow's intelligence — one algorithm, one circuit, one line of code at a time."*
 
-I'm a **Software Engineering student** passionate about the intersection of **AI, Robotics, and Full-Stack Development**. From training deep learning models to wiring autonomous robots, I love turning ideas into intelligent systems. I've led technical events, won national robotics competitions, and shipped projects across the full stack — and I'm just getting started.
-
-- 🏆 **2x National Robotics Competition Winner** (NAMAL Tech Expo 2025 & CUST 2024)
-- 🤖 Building autonomous robots with real-world navigation
-- 🧠 Developing AI systems for image recognition, face detection & deepfake analysis
-- 🌍 Sustainability innovator — condensing water from air using hardware prototypes
-- 🎓 **VP** @ Shifa Software Engineering Society | **Head of Events** @ Shifa Robotics Society
+- 🎓 **Software Engineering Undergraduate** at Shifa Tameer-e-Millat University, Islamabad — **CGPA 3.91**
+- 🤖 Passionate about **Artificial Intelligence, Robotics, Embedded Systems**, and **Requirements Engineering**
+- 🔬 Currently building AI-powered solutions and award-winning autonomous robots
+- 🌱 Exploring **Deep Learning, Autonomous Systems**, and **Security Monitoring**
+- 🏆 **2x National Robotics Competition Winner** — NAMAL Tech Expo 2025 & CUST Islamabad 2024
+- 🌍 Sustainability innovator — built a working **Water Extractor from Air** using Peltier modules
+- 🔐 Hands-on experience in **security monitoring** with Wazuh & Filebeat integration
+- 📐 Skilled in **Software Documentation** — SRS, SDS, BRD, UML, OOAD & Requirements Analysis
+- 💬 Ask me about **CNNs, Raspberry Pi projects, or anything AI/ML!**
 
 ---
 
@@ -70,122 +72,42 @@ I'm a **Software Engineering student** passionate about the intersection of **AI
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🕵️ DeepFake Images Detector
-![CNN](https://img.shields.io/badge/CNN-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Detects real vs fake images with an interactive GUI. Built from scratch with preprocessing, model optimization, and real-time predictions.
-
-</td>
-<td width="50%">
-
-### 🎯 Real-Time Face Recognition
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV)
-![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=flat-square&logo=raspberry-pi)
-
-Live face recognition deployed on Raspberry Pi 5, detecting and identifying faces from a live camera feed using a trained dataset.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Maze Solving Robot Car 🏆
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
-![Robotics](https://img.shields.io/badge/Robotics-Sensors-blueviolet?style=flat-square)
-
-**1st Place — CUST Islamabad 2024**. Autonomous robot car using ultrasonic sensors for real-time maze navigation and obstacle detection.
-
-</td>
-<td width="50%">
-
-### 🤖 Robot Without Boundaries 🏆
-![Robotics](https://img.shields.io/badge/Robotics-Embedded-orange?style=flat-square)
-![AdaptiveControl](https://img.shields.io/badge/Adaptive-Control-red?style=flat-square)
-
-**1st Place — NAMAL Tech Expo 2025**. Multi-purpose robotic system with intelligent control, adaptive mobility, and task versatility.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 Medical AI-Powered Chatbot
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai)
-
-Health-focused intelligent chatbot built with OpenAI API and OOAD principles, featuring a Bootstrap UI via Tkinter.
-
-</td>
-<td width="50%">
-
-### ✍️ Handwritten Digits Recognition
-![CNN](https://img.shields.io/badge/CNN-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-CNN trained to recognize handwritten digits with support for user input and image uploads.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💧 Water Extractor from Air 🌱
-![Hardware](https://img.shields.io/badge/Hardware-Peltier%20Modules-06b6d4?style=flat-square)
-![Sustainability](https://img.shields.io/badge/Sustainability-Innovation%20Award-22c55e?style=flat-square)
-
-**Sustainability Innovation Award — STMU 2024**. Prototype that condenses atmospheric humidity into clean water using Peltier modules — low-cost and eco-friendly.
-
-</td>
-<td width="50%">
-
-### 🗂️ PathFinder
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
-
-Full-stack app that visualizes project folders and enables fast file search with an interactive tree view for directory navigation.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 Wazuh Filebeat Integration
-![Wazuh](https://img.shields.io/badge/Wazuh-Security%20Monitoring-005571?style=flat-square)
-![Filebeat](https://img.shields.io/badge/Filebeat-ELK-00BFB3?style=flat-square&logo=elastic)
-
-Real-time login monitoring and security alerts with Wazuh + Filebeat integration; includes custom dashboards and notification pipelines.
-
-</td>
-<td width="50%">
-
-### 🎮 Sudoku Solver Game
-![Java](https://img.shields.io/badge/Java-OOP-ED8B00?style=flat-square&logo=openjdk)
-![Backtracking](https://img.shields.io/badge/Recursive-Backtracking-purple?style=flat-square)
-
-Modular Java Sudoku game with recursive backtracking, input validation, hints system, and multiple difficulty levels.
-
-</td>
-</tr>
-</table>
+| # | Project | Category | Tech Stack | Description | Award |
+|---|---------|----------|------------|-------------|-------|
+| 01 | 🕵️ **DeepFake Images Detector** | AI / Deep Learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-GUI-blueviolet?style=flat-square) | Detects real vs fake images with an interactive GUI; built from scratch with preprocessing, model optimization & real-time predictions | — |
+| 02 | ✍️ **Handwritten Digits Recognition** | AI / Deep Learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | CNN trained to recognize handwritten digits; supports user input and image uploads | — |
+| 03 | 🗂️ **PathFinder** | Full-Stack Web | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | Visualizes project folders with fast file search and an interactive tree view for directory navigation | — |
+| 04 | 🎮 **Sudoku Solver Game** | Software / Game | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-Backtracking-orange?style=flat-square) | Java-based modular Sudoku game with recursive backtracking, input validation, hints & multiple difficulty levels | — |
+| 05 | 🏥 **Medical AI-Powered Chatbot** | AI / Healthcare | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-Bootstrap-06b6d4?style=flat-square) | Health-focused chatbot with OpenAI API integration for intelligent responses; designed using OOAD principles | — |
+| 06 | 🎯 **Real-Time Face Recognition System** | AI / Computer Vision | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white) ![RPi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) | Live face recognition on Raspberry Pi 5; detects & identifies faces from camera feed using a trained dataset | — |
+| 07 | 🤖 **Maze Solving Robot Car** | Robotics | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Sensors](https://img.shields.io/badge/Ultrasonic-Sensors-blueviolet?style=flat-square) | Autonomous robot car using ultrasonic sensors for real-time maze navigation and obstacle detection | 🏆 1st Place — CUST 2024 |
+| 08 | 🤖 **Robot Without Boundaries** | Robotics / Embedded | ![Robotics](https://img.shields.io/badge/Embedded-Systems-orange?style=flat-square) ![Control](https://img.shields.io/badge/Adaptive-Control-red?style=flat-square) | Multi-purpose robotic system with intelligent control, adaptive mobility, and task versatility | 🏆 1st Place — NAMAL 2025 |
+| 09 | 💧 **Water Extractor from Air** | Hardware / Sustainability | ![Hardware](https://img.shields.io/badge/Peltier-Modules-06b6d4?style=flat-square) ![Sustainable](https://img.shields.io/badge/Eco-Friendly-22c55e?style=flat-square) | Prototype that condenses atmospheric humidity into clean water using Peltier modules — low-cost & eco-friendly | 🌱 Sustainability Award — STMU 2024 |
+| 10 | 🩺 **Virtual Counselling System** | Software Engineering | ![SRS](https://img.shields.io/badge/SRS-SDS-gray?style=flat-square) ![Testing](https://img.shields.io/badge/Manual-Testing-lightgray?style=flat-square) | System documentation, UML modeling, and manual testing for academic, mental health & parental counselling | — |
+| 11 | 📅 **STMU Timetable Management System** | Requirement Analysis | ![SDLC](https://img.shields.io/badge/SDLC-Analysis-blue?style=flat-square) ![Testing](https://img.shields.io/badge/Manual-Testing-lightgray?style=flat-square) | Optimized university scheduling via stakeholder interviews, requirement analysis & manual testing | — |
+| 12 | 🎤 **Speech Practice Arena** | UI/UX Design | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Usability](https://img.shields.io/badge/Usability-Testing-purple?style=flat-square) | Redesigned Yoodli platform with heuristic evaluation, cognitive walkthrough & thinking-aloud usability testing | — |
+| 13 | 🔐 **Wazuh Filebeat Integration** | Security / DevOps | ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square) ![Filebeat](https://img.shields.io/badge/Filebeat-ELK-00BFB3?style=flat-square&logo=elastic&logoColor=white) | Configured Wazuh + Filebeat for real-time login monitoring, security alerts, dashboards & notifications | — |
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
-| 🥇 Award | 📍 Organization | 📅 Year |
+| 🥇 Award | 📍 Event / Organization | 📅 Year |
 |---|---|---|
-| 🏆 1st Place — Robot Without Boundaries | NAMAL Tech Expo | 2025 |
-| 🏆 1st Place — Maze Solving Robot Car | CUST Islamabad | 2024 |
+| 🥇 1st Place — Robot Without Boundaries | NAMAL Tech Expo | 2025 |
+| 🥇 1st Place — Maze Solving Robot Car | CUST Islamabad | 2024 |
 | 🌱 Sustainability Innovation Award | STMU | 2024 |
-| 🎓 AI Essential Course | Google | — |
-| 💼 Software Engineering Job Simulation | JP Morgan (Forage) | — |
+
+---
+
+## 📜 Certifications
+
+| 🎓 Certificate | 🏛️ Issuing Organization | 🔗 Type |
+|---|---|---|
+| 🤖 AI Essential Course | Google | Professional Development |
+| 💼 Software Engineering Job Simulation | JP Morgan — Forage | Industry Simulation |
 
 ---
 
