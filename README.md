@@ -147,6 +147,20 @@
 
 <br/>
 
+### 📬 Contact Me About
+
+| 🤖 AI / ML | 📐 Documentation | 📱 App / Web Development | 🤖 Robotics |
+|:---:|:---:|:---:|:---:|:---:|
+| CNNs, Deep Learning, OpenCV, TensorFlow | SRS, SDS, BRD, UML, OOAD | Android (Java), React, Firebase | Arduino, Raspberry Pi, Embedded Systems |
+
+> *Feel free to reach out if you have questions, want to collaborate, or just want to talk tech!*
+
+<br/>
+
+⭐ **If you find my work interesting, feel free to star a repo or connect on LinkedIn!** ⭐
+
+<br/>
+
 *"The best way to predict the future is to build it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer"/>
