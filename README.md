@@ -3,9 +3,11 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khansa%20Bint-e-Zia&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Robotics%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
+# 👩‍💻 Khansa Bint-e-Zia
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+%26+Robotics+Solutions+%F0%9F%A4%96;Full-Stack+%26+AI+Developer+%F0%9F%9A%80;Deep+Learning+%7C+Computer+Vision+%7C+Embedded+Systems;1st+Place+Robot+Without+Boundaries+%F0%9F%8F%86+NAMAL+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Software+Engineering+Student+%F0%9F%92%BB;Robotics+%26+Embedded+Systems+Builder+%F0%9F%A4%96;1st+Place+Robot+Without+Boundaries+%F0%9F%8F%86+NAMAL+2025" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,6 +33,7 @@
 - 🌍 Sustainability innovator — built a working **Water Extractor from Air** using Peltier modules
 - 🔐 Hands-on experience in **security monitoring** with Wazuh & Filebeat integration
 - 📐 Skilled in **Software Documentation** — SRS, SDS, BRD, UML, OOAD & Requirements Analysis
+- 🎪 **Head of Event Management** @ Shifa Robotics Society | **Vice President** @ Shifa Software Engineering Society
 - 💬 Ask me about **CNNs, Raspberry Pi projects, or anything AI/ML!**
 
 ---
