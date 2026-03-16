@@ -20,7 +20,7 @@
 
 > *"Building tomorrow's intelligence — one algorithm, one circuit, one line of code at a time."*
 
-- 🎓 **Software Engineering Undergraduate** at Shifa Tameer-e-Millat University, Islamabad — **CGPA 3.91**
+- 🎓 **Software Engineering Undergraduate** at Shifa Tameer-e-Millat University, Islamabad — **CGPA 3.93**
 - 🤖 Passionate about **Artificial Intelligence, Robotics, Embedded Systems**, and **Requirements Engineering**
 - 📐 Skilled in **Software Documentation** — SRS, SDS, BRD, UML, OOAD & Requirements Analysis
 
